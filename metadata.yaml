@@ -16,6 +16,9 @@ homepage: "https://www.switchgrowth.com"
 documentation: "https://docs.switchgrowth.com/boost"
 versions:
   # Latest version
+  - sha: 216d135435a026dfdb06d0a0db4511c88b38827f
+    changeNotes: Updated to use internal Google getCookieValues function
+  # Older Versions
   - sha: a9adc4bb37c635839d85ce761243d186f36a55ea
     changeNotes: Initial Version
 
