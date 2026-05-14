@@ -15,6 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Switch - Session Data Value",
   "description": "Provides the ability to retrieve a value from a Switch Session Data cookie.",
+  "categories": ["SESSION_RECORDING"],
   "containerContexts": [
     "WEB"
   ]
